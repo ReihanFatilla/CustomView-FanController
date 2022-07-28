@@ -4,4 +4,6 @@
     <string name="fan_low">Low</string>
     <string name="fan_medium">Medium</string>
     <string name="fan_high">High</string>
+    <string name="change">Change</string>
+    <string name="reset">Reset</string>
 </resources>
